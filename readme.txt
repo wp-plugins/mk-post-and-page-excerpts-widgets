@@ -11,7 +11,10 @@ Creates widgets that display excerpts from posts or pages in the sidebar.
 == Description ==
 MK Post and Page Excerpts Widgets :  Creates widgets that display excerpts from posts or pages in the sidebar. You may use 'more' links, show featured image, set excerpt length of the post or page.
 
+For more details: [Click here](http://www.talyasoftwaresolutions.com/wordpress-plugins/mk-post-and-page-excerpts-widgets/)
+
 Created By: Manoj Rana
+
 Email : manoj.rana91986@gmail.com
 
 == Installation ==
